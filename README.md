@@ -3,7 +3,7 @@
 - I have some basic knowledge of C/C++ because I was interested in learning it.
 - I also have a basic understanding of Visual Basic and java (jcreator and eclipse) from high school.
 - This year in university, I am currently learning Python and will be learning more c/c++ next semester.
-- Collborating on random side projects is something I look forward to doing alongside working my coop terms.
+- Collborating on various side projects is something I look forward to doing alongside working my coop terms.
 
 
 <!---
