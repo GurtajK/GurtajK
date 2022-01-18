@@ -3,7 +3,7 @@
 - In my current semester I am learning more concepts related to working with c/c++ which I only knew to a limited level before.
 - I also have a basic understanding of Visual Basic and java from high school.
 - The language I am currently most familiar with is Python because it was the focus of my computing course last semester.
-- Collborating on various side projects is something I look forward to doing alongside working my coop terms.
+- Collborating on various side projects is something I look forward to doing alongside my education.
 
 
 <!---
