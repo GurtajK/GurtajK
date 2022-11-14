@@ -1,9 +1,7 @@
-- My name is Gurtaj Khabra and I'm currently enrolled in a Software Engineering course.
-- This is my second year in university but because of Covid-19 my first year was realtively unexciting.
-- In my current semester I am learning more concepts related to working with c/c++ which I only knew to a limited level before.
-- I also have a basic understanding of Visual Basic and java from high school.
-- The language I am currently most familiar with is Python because it was the focus of my computing course last semester.
-- Collborating on various side projects is something I look forward to doing alongside my education.
+- My name is Gurtaj Khabra and I'm a software engineering student currently in the third year of my degree.
+- Currently, I'm learning javascript and react while volunteering at UofA Blueprint as well as Java through an OOP course.
+- Other languages with which I'm familiar are Python, C++, and C#.
+- I look forward to working on various side projects and collaborating with others as I learn the ins and outs of this field.
 
 
 <!---
