@@ -1,7 +1,8 @@
-- My name is Gurtaj Khabra and I'm a software engineering student currently in the third year of my degree.
-- Currently, I'm learning javascript and react while volunteering at UofA Blueprint as well as Java through an OOP course.
-- Other languages with which I'm familiar are Python, C++, and C#.
-- I look forward to working on various side projects and collaborating with others as I learn the ins and outs of this field.
+- My name is Gurtaj Khabra and I'm a 4th year software engineering co-op student at the University of Alberta.
+- Currently, I'm most comfortable with C#, SQL, and Vue3 with Javascript since that was the primary focus of my last work term.
+- Other languages with which I'm familiar include Python, Java, and C++.
+- I look forward to working on various side projects and collaborating with others as I explore various niches in the industry.
+- One of the areas I most look forward to exploring is augmented reality. I have not stepped into this area much but hope to do so in the future.
 
 
 <!---
