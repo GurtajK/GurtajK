@@ -1,4 +1,4 @@
-- My name is Gurtaj Khabra and I'm a 4th year software engineering co-op student at the University of Alberta.
+- My name is Gurtaj Khabra and I'm a 5th year software engineering co-op student at the University of Alberta.
 - Currently, I'm most comfortable with C#, SQL, and Vue3 with Javascript since that was the primary focus of my last work term.
 - Other languages with which I'm familiar include Python, Java, and C++.
 - I look forward to working on various side projects and collaborating with others as I explore various niches in the industry.
